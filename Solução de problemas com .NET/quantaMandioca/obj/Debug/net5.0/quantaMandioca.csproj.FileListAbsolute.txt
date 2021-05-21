@@ -1,0 +1,16 @@
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\quantaMandioca\bin\Debug\net5.0\quantaMandioca.exe
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\quantaMandioca\bin\Debug\net5.0\quantaMandioca.deps.json
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\quantaMandioca\bin\Debug\net5.0\quantaMandioca.runtimeconfig.json
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\quantaMandioca\bin\Debug\net5.0\quantaMandioca.runtimeconfig.dev.json
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\quantaMandioca\bin\Debug\net5.0\quantaMandioca.dll
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\quantaMandioca\bin\Debug\net5.0\ref\quantaMandioca.dll
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\quantaMandioca\bin\Debug\net5.0\quantaMandioca.pdb
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\quantaMandioca\obj\Debug\net5.0\quantaMandioca.csprojAssemblyReference.cache
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\quantaMandioca\obj\Debug\net5.0\quantaMandioca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\quantaMandioca\obj\Debug\net5.0\quantaMandioca.AssemblyInfoInputs.cache
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\quantaMandioca\obj\Debug\net5.0\quantaMandioca.AssemblyInfo.cs
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\quantaMandioca\obj\Debug\net5.0\quantaMandioca.csproj.CoreCompileInputs.cache
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\quantaMandioca\obj\Debug\net5.0\quantaMandioca.dll
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\quantaMandioca\obj\Debug\net5.0\ref\quantaMandioca.dll
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\quantaMandioca\obj\Debug\net5.0\quantaMandioca.pdb
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\quantaMandioca\obj\Debug\net5.0\quantaMandioca.genruntimeconfig.cache

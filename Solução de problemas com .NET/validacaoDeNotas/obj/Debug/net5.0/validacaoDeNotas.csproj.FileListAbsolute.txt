@@ -1,0 +1,16 @@
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\validacaoDeNotas\bin\Debug\net5.0\validacaoDeNotas.exe
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\validacaoDeNotas\bin\Debug\net5.0\validacaoDeNotas.deps.json
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\validacaoDeNotas\bin\Debug\net5.0\validacaoDeNotas.runtimeconfig.json
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\validacaoDeNotas\bin\Debug\net5.0\validacaoDeNotas.runtimeconfig.dev.json
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\validacaoDeNotas\bin\Debug\net5.0\validacaoDeNotas.dll
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\validacaoDeNotas\bin\Debug\net5.0\ref\validacaoDeNotas.dll
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\validacaoDeNotas\bin\Debug\net5.0\validacaoDeNotas.pdb
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\validacaoDeNotas\obj\Debug\net5.0\validacaoDeNotas.csprojAssemblyReference.cache
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\validacaoDeNotas\obj\Debug\net5.0\validacaoDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\validacaoDeNotas\obj\Debug\net5.0\validacaoDeNotas.AssemblyInfoInputs.cache
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\validacaoDeNotas\obj\Debug\net5.0\validacaoDeNotas.AssemblyInfo.cs
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\validacaoDeNotas\obj\Debug\net5.0\validacaoDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\validacaoDeNotas\obj\Debug\net5.0\validacaoDeNotas.dll
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\validacaoDeNotas\obj\Debug\net5.0\ref\validacaoDeNotas.dll
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\validacaoDeNotas\obj\Debug\net5.0\validacaoDeNotas.pdb
+C:\Users\aloos\Documents\Boot-Camp-.NET-Fundamentals\Solução de problemas com .NET\validacaoDeNotas\obj\Debug\net5.0\validacaoDeNotas.genruntimeconfig.cache

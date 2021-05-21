@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 class Classe {
     static void Main() {
