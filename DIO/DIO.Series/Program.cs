@@ -60,7 +60,7 @@ namespace DIO.Series
 			Console.ReadLine();
         }
 
-        private static void ExcluirSerie()
+		private static void ExcluirSerie()
 		{
 			Console.Write("Digite o id da série: ");
 			int indiceSerie = int.Parse(Console.ReadLine());
@@ -68,7 +68,7 @@ namespace DIO.Series
 			repositorioSeries.Exclui(indiceSerie);
 		}
 
-        private static void VisualizarSerie()
+		private static void VisualizarSerie()
 		{
 			Console.Write("Digite o id da série: ");
 			int indiceSerie = int.Parse(Console.ReadLine());
@@ -78,7 +78,7 @@ namespace DIO.Series
 			Console.WriteLine(serie);
 		}
 
-        private static void AtualizarSerie()
+		private static void AtualizarSerie()
 		{
 			Console.Write("Digite o id da série: ");
 			int indiceSerie = int.Parse(Console.ReadLine());
@@ -109,7 +109,7 @@ namespace DIO.Series
 
 			repositorioSeries.Atualiza(indiceSerie, atualizaSerie);
 		}
-        private static void ListarSeries()
+		private static void ListarSeries()
 		{
 			Console.WriteLine("Listar séries");
 
@@ -123,13 +123,13 @@ namespace DIO.Series
 
 			foreach (var serie in lista)
 			{
-                var excluido = serie.retornaExcluido();
+			var excluido = serie.retornaExcluido();
                 
 				Console.WriteLine("#ID {0}: - {1} {2}", serie.retornaId(), serie.retornaTitulo(), (excluido ? "*Excluído*" : ""));
 			}
 		}
 
-        private static void InserirSerie()
+		private static void InserirSerie()
 		{
 			Console.WriteLine("Inserir nova série");
 
@@ -172,7 +172,7 @@ namespace DIO.Series
 			return x;
         }
 
-        private static void ExcluirFilme()
+		private static void ExcluirFilme()
 		{
 			Console.Write("Digite o id do filme: ");
 			int indiceFilme = int.Parse(Console.ReadLine());
@@ -180,7 +180,7 @@ namespace DIO.Series
 			repositorioFilmes.Exclui(indiceFilme);
 		}
 
-        private static void VisualizarFilme()
+		private static void VisualizarFilme()
 		{
 			Console.Write("Digite o id do filme: ");
 			int indiceFilme = int.Parse(Console.ReadLine());
@@ -190,7 +190,7 @@ namespace DIO.Series
 			Console.WriteLine(filme);
 		}
 
-        private static void AtualizarFilme()
+		private static void AtualizarFilme()
 		{
 			Console.Write("Digite o id do filme: ");
 			int indiceFilme = int.Parse(Console.ReadLine());
@@ -223,7 +223,7 @@ namespace DIO.Series
 
 			repositorioFilmes.Atualiza(indiceFilme, atualizaFilme);
 		}
-        private static void ListarFilmes()
+		private static void ListarFilmes()
 		{
 			Console.WriteLine("Listar filmes");
 
@@ -237,13 +237,13 @@ namespace DIO.Series
 
 			foreach (var filme in lista)
 			{
-                var excluido = filme.retornaExcluido();
+			var excluido = filme.retornaExcluido();
                 
 				Console.WriteLine("#ID {0}: - {1} {2}", filme.retornaId(), filme.retornaTitulo(), (excluido ? "*Excluído*" : ""));
 			}
 		}
 
-        private static void InserirFilme()
+		private static void InserirFilme()
 		{
 			Console.WriteLine("Inserir novo filme");
 
@@ -275,7 +275,7 @@ namespace DIO.Series
 
 			repositorioFilmes.Insere(novoFilme);
 		}
-        private static string ObterOpcaoUsuario()
+		private static string ObterOpcaoUsuario()
 		{
 			Console.WriteLine();
 			Console.WriteLine("DIO Séries a seu dispor!!!");
