@@ -88,7 +88,7 @@ namespace DIO.Bank
 				return flag;
 			}
 			return flag;
-        }
+		}
 
 		private static void Transferir()
 		{
