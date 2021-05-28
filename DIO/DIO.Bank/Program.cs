@@ -29,7 +29,7 @@ namespace DIO.Bank
 					case "5":
 						Depositar();
 						break;
-                    case "C":
+					case "C":
 						Console.Clear();
 						break;
 
@@ -103,7 +103,7 @@ namespace DIO.Bank
 				return;
 			}
 
-            Console.Write("Digite o número da conta de destino: ");
+			Console.Write("Digite o número da conta de destino: ");
 			int indiceContaDestino = int.Parse(Console.ReadLine());
 
 			verificacao(indiceContaDestino);
@@ -117,7 +117,7 @@ namespace DIO.Bank
 			Console.Write("Digite o valor a ser transferido: ");
 			double valorTransferencia = double.Parse(Console.ReadLine());
 
-            listContas[indiceContaOrigem].Transferir(valorTransferencia, listContas[indiceContaDestino]);
+			listContas[indiceContaOrigem].Transferir(valorTransferencia, listContas[indiceContaDestino]);
 		}
 
 		private static void InserirConta()
@@ -173,7 +173,7 @@ namespace DIO.Bank
 			Console.WriteLine("3- Transferir");
 			Console.WriteLine("4- Sacar");
 			Console.WriteLine("5- Depositar");
-            Console.WriteLine("C- Limpar Tela");
+			Console.WriteLine("C- Limpar Tela");
 			Console.WriteLine("X- Sair");
 			Console.WriteLine();
 
