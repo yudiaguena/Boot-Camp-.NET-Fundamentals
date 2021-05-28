@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using DIO.Filmes.Interfaces;
+using DIO.Series.Interfaces;
 
-namespace DIO.Filmes
+namespace DIO.Series
 {
 	public class FilmeRepositorio : IRepositorio<Filme>
 	{

@@ -1,6 +1,6 @@
 using System;
 
-namespace DIO.Filmes
+namespace DIO.Series
 {
     public class Filme : EntidadeBase
     {
