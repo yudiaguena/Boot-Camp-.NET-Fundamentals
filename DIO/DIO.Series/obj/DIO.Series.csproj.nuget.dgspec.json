@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aloos\\Documents\\Boot-Camp-.NET-Fundamentals\\DIO.Series\\DIO.Series.csproj": {}
+    "C:\\Users\\aloos\\Documents\\Boot-Camp-.NET-Fundamentals\\DIO\\DIO.Series\\DIO.Series.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aloos\\Documents\\Boot-Camp-.NET-Fundamentals\\DIO.Series\\DIO.Series.csproj": {
+    "C:\\Users\\aloos\\Documents\\Boot-Camp-.NET-Fundamentals\\DIO\\DIO.Series\\DIO.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aloos\\Documents\\Boot-Camp-.NET-Fundamentals\\DIO.Series\\DIO.Series.csproj",
+        "projectUniqueName": "C:\\Users\\aloos\\Documents\\Boot-Camp-.NET-Fundamentals\\DIO\\DIO.Series\\DIO.Series.csproj",
         "projectName": "DIO.Series",
-        "projectPath": "C:\\Users\\aloos\\Documents\\Boot-Camp-.NET-Fundamentals\\DIO.Series\\DIO.Series.csproj",
+        "projectPath": "C:\\Users\\aloos\\Documents\\Boot-Camp-.NET-Fundamentals\\DIO\\DIO.Series\\DIO.Series.csproj",
         "packagesPath": "C:\\Users\\aloos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aloos\\Documents\\Boot-Camp-.NET-Fundamentals\\DIO.Series\\obj\\",
+        "outputPath": "C:\\Users\\aloos\\Documents\\Boot-Camp-.NET-Fundamentals\\DIO\\DIO.Series\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aloos\\AppData\\Roaming\\NuGet\\NuGet.Config"
