@@ -1,6 +1,6 @@
 Projeto desenvolvido no boot-camp, foi implementado o cadastro de Filmes e validação do gênero. <br>
 - want to do:
- - [ ] Webscrapping do imdb com <br>
+ - [ ] Webscrapping do imdb <br>
  - [ ] Conectar SQL Server.<br><br>
 Como testar: após clonar/baixar, abra o terminal e navegue até a pasta, digite "dotnet run" e pressione enter.<br><br>
 Tela inicial:<br>
